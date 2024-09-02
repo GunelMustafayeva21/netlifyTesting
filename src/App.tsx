@@ -8,8 +8,9 @@ function App() {
     <>
       <div>
 
-        <h1>Other workmate changed this line</h1>
-        <p>And workmate added new element</p>
+        <h1>Hi I am John</h1>
+        <p>I changed this page. It is final version</p>
+       
 
        
       </div>
