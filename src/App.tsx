@@ -8,9 +8,8 @@ function App() {
     <>
       <div>
 
-        <h1>Hi I am John</h1>
-        <p>I changed this page. It is final version</p>
-       
+      <h1>I am John</h1>
+      <p>I finished project</p>
 
        
       </div>
