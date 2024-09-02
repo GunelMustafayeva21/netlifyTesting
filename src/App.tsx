@@ -8,8 +8,8 @@ function App() {
     <>
       <div>
 
-      <h1>I am John</h1>
-      <p>I finished project</p>
+      <h1>I am User2</h1>
+      <p>I made changes. But it is correct version</p>
 
        
       </div>
