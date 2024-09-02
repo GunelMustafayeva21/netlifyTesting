@@ -8,8 +8,8 @@ function App() {
     <>
       <div>
 
-        <h1>Other workmate changed this line</h1>
-        <p>And workmate added new element</p>
+        <h1>I am John</h1>
+        <p>I finished project</p>
 
        
       </div>
