@@ -7,7 +7,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>After making changes to project</h1>
+        <h1>Other workmate changed this line</h1>
+        <p>And workmate added new element</p>
       </div>
       
     </>
